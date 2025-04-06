@@ -26,12 +26,9 @@
    python example.py
    ```
 
-## 코드 파일 설명
+## 폴드별 설명
 
-- `example1.py`: 첫 번째 예제 코드. [예시 설명]
-- `example2.py`: 두 번째 예제 코드. [예시 설명]
-- `task1.py`: 첫 번째 실습 과제 코드. [과제 설명]
-- `task2.py`: 두 번째 실습 과제 코드. [과제 설명]
+- `Sorting Algorithm Visualization`: 저울과 추를 이용한 정렬 알고리즘 학습 프로그램
 
 ## 기여 방법
 
