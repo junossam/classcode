@@ -3,6 +3,9 @@
 Python의 `turtle` 모듈을 활용하여 구현한 간단한 거북이 경주 게임입니다.  
 여러 색상의 거북이들이 무작위 속도로 결승선을 향해 달리며, 먼저 도착한 거북이가 승리합니다.
 
+![turtle-race](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Turtle_Race_icon.png/240px-Turtle_Race_icon.png)  
+*이미지는 예시이며, 실제 게임 화면과 다를 수 있습니다.*
+
 ---
 
 ## 🎮 실행 방법
@@ -10,7 +13,7 @@ Python의 `turtle` 모듈을 활용하여 구현한 간단한 거북이 경주 �
 1. Python이 설치된 환경에서 아래 코드를 실행하세요.
 
 ```bash
-python turtle_race.py
+python Random_Turtle_Race.py
 ```
 
 2. 그래픽 창이 열리면, 거북이들이 자동으로 경주를 시작합니다.
