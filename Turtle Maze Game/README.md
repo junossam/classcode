@@ -41,7 +41,7 @@ python maze_game_hardcoded.py
 python maze_game_file.py
 ```
 
-### 📁 예시 텍스트 파일 (`maze1.txt`)
+### 📁 예시 텍스트 파일 (`1.txt`)
 ```
 1 1 1 1 1 1 1 1 1 1
 1 0 0 0 0 0 0 0 0 1
