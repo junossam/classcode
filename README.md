@@ -6,26 +6,6 @@
 
 이 저장소는 강쌤의 수업에서 다룬 주요 개념들을 실습할 수 있는 코드들을 제공합니다. 각 코드 예제는 학생들이 이해도를 높일 수 있도록 구성되어 있으며, 수업에서 설명한 내용을 바탕으로 작성되었습니다.
 
-## 설치 및 실행 방법
-
-이 코드를 사용하려면 아래의 단계를 따라주세요:
-
-1. 이 저장소를 클론합니다:
-   ```bash
-   git clone https://github.com/username/my-class-code.git
-   ```
-
-2. 필요한 라이브러리를 설치합니다 (필요한 경우):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. 각 코드를 실행합니다:
-   - 예를 들어 `example.py` 코드를 실행하려면:
-   ```bash
-   python example.py
-   ```
-
 ## 폴드별 설명
 
 - `Sorting Algorithm Visualization`: 저울과 추를 이용한 정렬 알고리즘 학습 프로그램
