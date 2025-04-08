@@ -31,7 +31,7 @@
 - `Sorting Algorithm Visualization`: 저울과 추를 이용한 정렬 알고리즘 학습 프로그램
 - `Random Turtle Race`: Python의 `turtle`, `Random` 모듈을 활용하여 구현한 간단한 거북이 경주 게임
 - `Turtle manual race`: Python의 `turtle` 모듈을 활용한 키보드 조작 기반 거북이 경주 게임
-- `Turtle Maze Game`: Python의 `turtle` 모듈을 활용한 키보드 조작 기반 거북이 미로 찾기 게
+- `Turtle Maze Game`: Python의 `turtle` 모듈을 활용한 키보드 조작 기반 거북이 미로 찾기 게임
 
 ## 기여 방법
 
