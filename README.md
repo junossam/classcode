@@ -13,6 +13,7 @@
 - `Turtle manual race`: Python의 `turtle` 모듈을 활용한 키보드 조작 기반 거북이 경주 게임
 - `Turtle Maze Game`: Python의 `turtle` 모듈을 활용한 키보드 조작 기반 거북이 미로 찾기 게임
 - `MonteCarlo Pi Simulation`: Python의 `turtle`과 `random` 모듈을 활용해 무작위로 점을 찍으면서 π 값을 예측하는 실험 프로그램
+- `Meal Info By School`: Python과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 프로그램
   
 ## 기여 방법
 
