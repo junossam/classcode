@@ -15,6 +15,7 @@
 - `MonteCarlo Pi Simulation`: Python의 `turtle`과 `random` 모듈을 활용해 무작위로 점을 찍으면서 π 값을 예측하는 실험 프로그램
 - `Meal Info By School`: Python과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 프로그램
 - `AppInventor SchoolMealInfo`: AppInventor과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 스마트폰 앱 프로그램
+- `Weather Forecast`: Python과 공공데이터포털 오픈 API를 활용한 일기 예보 프로그램
   
 ## 기여 방법
 
