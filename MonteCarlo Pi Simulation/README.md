@@ -1,4 +1,3 @@
-```markdown
 # 🎯 원주율 추정 실험 - 몬테카를로 시뮬레이션
 
 이 프로젝트는 **파이썬 turtle 그래픽**과 **확률적 방법(Monte Carlo Simulation)**을 활용하여  
