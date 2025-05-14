@@ -16,6 +16,7 @@
 - `Meal Info By School`: Python과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 프로그램
 - `AppInventor SchoolMealInfo`: AppInventor과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 스마트폰 앱 프로그램
 - `Weather Forecast`: Python과 공공데이터포털 오픈 API를 활용한 일기 예보 프로그램
+- `MultiChat`: Python에서 다중 쓰레드와 소켓 통신을 이용한 다중 채팅 프로그램
   
 ## 기여 방법
 
