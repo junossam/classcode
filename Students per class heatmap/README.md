@@ -39,14 +39,18 @@ Python과 [학교알리미](https://www.schoolinfo.go.kr/)의 **학년별·학�
 2024_Grade_Class_Elem.csv
 2024_Grade_Class_Middle.csv
 2024_Grade_Class_High.csv
-students_per_class_heatmap_win.py
+students_per_class_heatmap.py
 
 ````
 
 2️⃣ 터미널 또는 명령 프롬프트에서 실행:
 
 ```bash
-python students_per_class_heatmap_win.py
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+python students_per_class_heatmap.py
 ````
 
 3️⃣ 실행 결과:
@@ -126,3 +130,4 @@ README.md                             # 프로젝트 설명 파일 (본 문서)
 > 📚 교육 현장이나 데이터 리터러시 수업에서
 
 > Python과 공공 데이터를 활용한 **실제 데이터 분석 프로젝트**로 추천드립니다.
+
