@@ -17,6 +17,8 @@
 - `AppInventor SchoolMealInfo`: AppInventor과 NEIS 오픈 API를 활용해 학교 급식 식단을 조회하는 스마트폰 앱 프로그램
 - `Weather Forecast`: Python과 공공데이터포털 오픈 API를 활용한 일기 예보 프로그램
 - `MultiChat`: Python에서 다중 쓰레드와 소켓 통신을 이용한 다중 채팅 프로그램
+- 'Students per class heatmap': Python과 학교알리미 데이터를 활용하여, 전국 시도교육청별 **초·중·고등학교의 학급당 학생 수 현황을 시각화**하는 프로그램
+
   
 ## 기여 방법
 
